@@ -1,0 +1,6 @@
+{
+  "name": "Coler-Code",
+  "description": "Baro Coding, Dhiso Mustaqbalkaaga. Somali coding education platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
